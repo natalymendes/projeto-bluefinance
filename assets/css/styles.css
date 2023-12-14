@@ -1,0 +1,39 @@
+body {
+    background-color: #ffffff; /* cor do fundo da tela */
+}
+
+.login-container {
+    margin-top: 50px;
+
+}
+
+.logo-container {
+    text-align: center;
+    margin-bottom: 20px; /* distância entre o logotipo e o formulário */
+}
+
+.login-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 50%; /* Largura do formulário */
+    margin: 0 auto; /* Para centralizar formulário */
+}
+
+.img {
+    max-width: 20%;
+    height: auto;
+}
+
+.custom-image {
+    max-width: 100%;
+    height: auto;
+    width: 100%; /* Largura da imagem */
+    max-height: 600px; /* Altura da imagem */
+}
+
+.login-title {
+    font-weight: bold;
+    color: #888; /* Cor do texto */
+    font-size: 20px; /* Tamanho da fonte */
+}

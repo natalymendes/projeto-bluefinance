@@ -1,0 +1,34 @@
+body {
+    background-image: url('./imagens/Planejamento.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #ffffff;
+    height: 100vh; /* Altura */
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-container {
+    max-width: 400px;
+    margin: auto;
+}
+
+.signup-form {
+    background-color: rgba(239, 240, 241, 0.886); /* Fundo formulário */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(239, 239, 240, 0.1);
+}
+
+.signup-header {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #1358a2d6; /* Cor título formulário */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
